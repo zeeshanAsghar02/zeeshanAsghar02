@@ -1,8 +1,8 @@
-<h1 align="center">Hey , I'm Wasif Ali Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+<h1 align="center">Hey , I'm Zeeshan Asghar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
         
 ## :sassy_man: About me
-Hi there! 👋 My name is Wasif and I am a second-year computer science student at Air University, Islamabad. My passion lies in web development and I have gained expertise in the MERN stack through my studies, projects and internships. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a team player and a creative developer who is always looking for ways to improve and take on new challenges. I have a love for the beauty of the clouds and sky and I often capture their stunning visuals.
+Hi there! 👋 My name is Zeeshan and I am a third-year computer science student at Air University, Islamabad. My passion lies in web development and I have gained expertise in the MERN stack through my studies, projects and internships. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a team player and a creative developer who is always looking for ways to improve and take on new challenges. I have a love for the beauty of the clouds and sky and I often capture their stunning visuals.
 
 ## 👯 Connect with me
 <p>
