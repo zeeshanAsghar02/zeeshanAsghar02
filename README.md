@@ -21,7 +21,7 @@ Hi there! 👋 My name is Zeeshan and I am a third-year computer science student
 
 ## 🔥 Streak Stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=WasifAliShah&theme=algolia"
-        alt="WasifAliShah" /></p>
+        alt="Muhammad Zeeshan Asghar" /></p>
         
 ## 🛠️ My Skills
 <p>
@@ -79,7 +79,7 @@ Hi there! 👋 My name is Zeeshan and I am a third-year computer science student
 
 ## 📊 Github Stats
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wasif's Github Stats"
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Zeeshan's Github Stats"
             src="https://github-readme-stats.vercel.app/api?username=WasifAliShah&show_icons=true&count_private=true&theme=algolia"
             height="192px" /></a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WasifAliShah&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
