@@ -80,10 +80,10 @@ Hi there! 👋 My name is Zeeshan and I am a third-year computer science student
 ## 📊 Github Stats
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Zeeshan's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=WasifAliShah&show_icons=true&count_private=true&theme=algolia"
+            src="https://github-readme-stats.vercel.app/api?username=zeeshanAsghar02&show_icons=true&count_private=true&theme=algolia"
             height="192px" /></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WasifAliShah&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
-        alt="WasifAliShah" height="192px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanAsghar02&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"
+        alt="zeeshanAsghar02" height="192px" />
     <br />
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
     experience or skill level.
